@@ -19,7 +19,7 @@
 |Вакарчук|[repo](https://bitbucket.org/DVakarchuk/labs/branches/)|||||||||
 |Вітюк|[repo](https://bitbucket.org/IvanVitiuk/myrep2/src/master/)|||||||||
 |Водоріз||||||||||
-|Голобородько||||||||||
+|Голобородько|[repo](https://bitbucket.org/Erkvil/kn-18-1-lab/src/master/)|||||||||
 |Єфремов||||||||||
 |Крохальов||||||||||
 |Курганський|[repo](https://bitbucket.org/kurgansky/ta_labs/src/master/)|||||||||
